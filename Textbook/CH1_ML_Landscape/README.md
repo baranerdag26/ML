@@ -1,1 +1,0 @@
-A basic linear regression. Nothing much.

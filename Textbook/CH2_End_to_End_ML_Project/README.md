@@ -1,1 +1,0 @@
-This chapter's aim is the get reader familiarize with ML within a end-to-end project. After a while, I was lost, so I stopped codding. 
